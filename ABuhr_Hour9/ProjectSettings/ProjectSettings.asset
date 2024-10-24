@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 0ecd7f17cc02344dda2184d1a727e84b
+  productGUID: d413bf35d2f1b4d5d8afe57f24570c49
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: bAfton_Demo
+  productName: ABuhr_Hour9
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -719,10 +719,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 16cc2e8a-128a-47a0-8856-a3df16044596
+  cloudProjectId: 6db80268-4726-42c0-9e05-d12e42dcbe83
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: bAfton_Demo 2024-08-20_13-33-52
+  projectName: ABuhr_Hour9
   organizationId: sticksntwigs
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
